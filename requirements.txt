@@ -1,1 +1,9 @@
-ipykernel=6.29.5
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+flask
+memory_profiler
+streamlit
+scikit-learn
